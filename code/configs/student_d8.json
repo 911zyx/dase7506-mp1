@@ -1,0 +1,8 @@
+{
+  "vocab": 2048,
+  "width": 192,
+  "heads": 6,
+  "depth": 8,
+  "context": 256,
+  "mlp_hidden": 512
+}

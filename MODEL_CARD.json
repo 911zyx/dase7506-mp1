@@ -1,0 +1,25 @@
+{
+  "author": "Zhang Yaxing",
+  "student_id": "3036707458",
+  "protocol": "7506-mp1-wt2-v2",
+  "checkpoint": "checkpoints/final.pt",
+  "checkpoint_sha256": "770a45d67a74e16bffa065b00414be70654db64edda52ba6e44a2f7a6b8a46d5",
+  "implementation_sha256": "03ae3fe373c7dc6ce6cf5267a34a540ad9baec485f19628211cfee3bfc8a9348",
+  "selected_step": 18800,
+  "full_training_steps": 24000,
+  "selected_checkpoint_targets": 154009600,
+  "full_run_targets": 196608000,
+  "seed": 17,
+  "test_bpb": 1.5004815275553385,
+  "config": {
+    "vocab": 2048,
+    "width": 192,
+    "heads": 6,
+    "depth": 8,
+    "context": 256,
+    "mlp_hidden": 512,
+    "dropout": 0.15,
+    "mlp": "gelu"
+  },
+  "selection": "Validation selected before testing. Seed42 does not replace this predictor."
+}

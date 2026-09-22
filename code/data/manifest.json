@@ -1,0 +1,14 @@
+{
+  "protocol": "7506-mp1-wt2-v2",
+  "source": {
+    "revision": "b08601e04326c79dfdd32d625aee71d232d685c3",
+    "config": "wikitext-2-raw-v1"
+  },
+  "construction": "Each official split: join the text column with a single newline; UTF-8 bytes. No filtering. BPE fitted to train only.",
+  "sha256": {
+    "tokenizer.json": "020d1bc6aa4449c4f352b2e03d0e0fb4f39287f15297705e421b1fa7d817262e",
+    "wikitext_test.txt": "aca2f46735043bcfd0a44eca981d04627b9cdf74c4c9a04bf0856d04066f58fc",
+    "wikitext_train.txt": "c58d555a94ada0882d1e8c0b3dc7ba68e1c269da5ad9e7a057300245d130c4e8",
+    "wikitext_validation.txt": "714a24a5de7459876f7cfdc64837e551dd7cde2a51f95b763ee083fff273e307"
+  }
+}

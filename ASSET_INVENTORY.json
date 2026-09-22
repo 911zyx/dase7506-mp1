@@ -1,0 +1,50 @@
+{
+  "files": [
+    {
+      "path": "checkpoints/final.pt",
+      "bytes": 17337826
+    },
+    {
+      "path": "code/student.py",
+      "bytes": 9252
+    },
+    {
+      "path": "code/common.py",
+      "bytes": 3302
+    },
+    {
+      "path": "code/evaluate.py",
+      "bytes": 3437
+    },
+    {
+      "path": "code/configs/final.json",
+      "bytes": 139
+    },
+    {
+      "path": "code/requirements.txt",
+      "bytes": 45
+    },
+    {
+      "path": "code/data/manifest.json",
+      "bytes": 682
+    },
+    {
+      "path": "code/data/tokenizer.json",
+      "bytes": 121943
+    },
+    {
+      "path": "code/data/wikitext_test.txt",
+      "bytes": 1292013
+    },
+    {
+      "path": "code/data/wikitext_train.txt",
+      "bytes": 10951562
+    },
+    {
+      "path": "code/data/wikitext_validation.txt",
+      "bytes": 1148007
+    }
+  ],
+  "total_mib": 29.438217163085938,
+  "scope": "Conservatively includes checkpoint, inference code/config, tokenizer and ALL supplied benchmark data; excludes installed Python/PyTorch and documentation."
+}

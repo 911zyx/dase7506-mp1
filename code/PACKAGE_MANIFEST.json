@@ -1,0 +1,19 @@
+{
+  "guide/GUIDE.md": "132409af856b3ab6ae9222fff0b47651dcc710734b707d35972792f9f28b7496",
+  "code/README.md": "39505001e4b8e8a6b5edb6454d0eae907acd2baf95e126105b3063328addb5f2",
+  "code/.gitignore": "6a3de44e1ab72d807c29424180c2c1087222d4ed5643d76662b1f3c6d7516225",
+  "code/RUN_LOG_TEMPLATE.csv": "9d9b59c48ef637113a72774e08f8912f106f8821224a9397974400b6219d0176",
+  "code/common.py": "d40dc1fe6578b5993a563bdb4d9e5317ddc9fae8afe48822b66571c7042e84db",
+  "code/evaluate.py": "128bcb2dab0be0d427505bddb4671e3ab3a8f78e114be79a689c0f9029af133d",
+  "code/model.py": "6cce142a31d396f017319543f50d70f30fa6da740729af01c8baed13c6f671f9",
+  "code/student.py": "203d9ded22b08303d47392ce559037782ba277e48e63cc128dfc389cf76a6ead",
+  "code/train.py": "70c16a20537de1286737f9eb056bc453a9b87b33ae7f1024677d415650979dfe",
+  "code/requirements.txt": "901a883f6b85ac79faaac149808f5eee8ec0ed0c36482255304c0124700319af",
+  "code/configs/baseline.json": "6b0c87aa8e15107b78d9789b8f254559735eb0eee81f941715bcc216bdb09e7d",
+  "code/tests/test_contract.py": "cee95caea815cf8cd0d5624ad4110d37016245b8359f39548e2ef8a0230e72d4",
+  "code/data/manifest.json": "f4790bb599d9fcd04e48263e685335e2f62d9bca0324b08061a10c38984f4fe4",
+  "code/data/tokenizer.json": "020d1bc6aa4449c4f352b2e03d0e0fb4f39287f15297705e421b1fa7d817262e",
+  "code/data/wikitext_train.txt": "c58d555a94ada0882d1e8c0b3dc7ba68e1c269da5ad9e7a057300245d130c4e8",
+  "code/data/wikitext_validation.txt": "714a24a5de7459876f7cfdc64837e551dd7cde2a51f95b763ee083fff273e307",
+  "code/data/wikitext_test.txt": "aca2f46735043bcfd0a44eca981d04627b9cdf74c4c9a04bf0856d04066f58fc"
+}
