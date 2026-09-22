@@ -1,0 +1,52 @@
+{
+  "protocol": "7506-mp1-wt2-v2",
+  "implementation": "student",
+  "config": {
+    "vocab": 2048,
+    "width": 192,
+    "heads": 6,
+    "depth": 6,
+    "context": 256,
+    "mlp_hidden": 512
+  },
+  "seed": 17,
+  "parameters": 3050304,
+  "precision": "bf16",
+  "train_tokens": 81920,
+  "preparation_seconds": 6.40928179997718,
+  "train_seconds": 0.7458279000129551,
+  "validation": {
+    "bpb": 3.5401182235771103,
+    "token_ppl": 1772.4545367773728,
+    "nll_nats": 2817005.9411792755,
+    "targets": 376599,
+    "utf8_bytes": 1148007,
+    "seconds": 0.5027728999848478
+  },
+  "history": [
+    {
+      "step": 10,
+      "loss": 7.402060031890869,
+      "seconds": 0.7456678000162356
+    }
+  ],
+  "validation_history": [],
+  "intermediate_validation_seconds": 0.0,
+  "process_seconds": 8.24199160002172,
+  "validation_raw": {
+    "bpb": 3.492342256454037,
+    "token_ppl": 1602.2625512126501,
+    "nll_nats": 2778988.7974762917,
+    "targets": 376599,
+    "utf8_bytes": 1148007,
+    "seconds": 0.39533759996993467
+  },
+  "torch_version": "2.7.1+cu128",
+  "threads": 4,
+  "checkpoint_sha256": "e2a3a3c9aca4434554a0116a2694fba945946151922e1fcc18dbfe94c7418b62",
+  "implementation_sha256": "a9f954d015a58cb72de0db00532b0b70f6db8468d7a0b1865efc2dcbc2511fdc",
+  "device": "cuda:0",
+  "device_name": "NVIDIA GeForce RTX 5080",
+  "peak_allocated_gb": 1.04082432,
+  "peak_reserved_gb": 1.218445312
+}

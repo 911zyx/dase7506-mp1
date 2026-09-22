@@ -1,0 +1,9 @@
+{
+  "zip_integrity": "passed",
+  "all_manifest_hashes": "passed",
+  "python_syntax": "passed",
+  "checkpoint_sha256": "770a45d67a74e16bffa065b00414be70654db64edda52ba6e44a2f7a6b8a46d5",
+  "validation_bpb": 1.4826797112031695,
+  "source": "Both distributed ZIPs extracted together into a separate directory; evaluated with existing mp1 environment.",
+  "clean_environment_install": "not performed"
+}

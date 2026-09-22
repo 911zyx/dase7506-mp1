@@ -1,0 +1,10 @@
+test_every_target_is_counted_once_including_last_short_window (test_contract.ContractTests.test_every_target_is_counted_once_including_last_short_window) ... ok
+test_future_inputs_cannot_change_earlier_predictions (test_contract.ContractTests.test_future_inputs_cannot_change_earlier_predictions) ... ok
+test_probabilities_are_normalized_and_examples_independent (test_contract.ContractTests.test_probabilities_are_normalized_and_examples_independent) ... ok
+test_shifted_loss_produces_gradients (test_contract.ContractTests.test_shifted_loss_produces_gradients) ... ok
+test_state_resets_between_windows (test_contract.ContractTests.test_state_resets_between_windows) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.156s
+
+OK

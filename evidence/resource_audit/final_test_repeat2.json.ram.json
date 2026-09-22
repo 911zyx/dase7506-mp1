@@ -1,0 +1,5 @@
+{
+  "peak_working_set_bytes": 1943859200,
+  "peak_commit_bytes": 3093614592,
+  "method": "Windows GetProcessMemoryInfo; lifetime high-water marks including imports, loading, tokenization and scoring"
+}

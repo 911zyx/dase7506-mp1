@@ -1,0 +1,10 @@
+test_every_target_is_counted_once_including_last_short_window (__main__.main.<locals>.FinalContract.test_every_target_is_counted_once_including_last_short_window) ... ok
+test_future_inputs_cannot_change_earlier_predictions (__main__.main.<locals>.FinalContract.test_future_inputs_cannot_change_earlier_predictions) ... ok
+test_probabilities_are_normalized_and_examples_independent (__main__.main.<locals>.FinalContract.test_probabilities_are_normalized_and_examples_independent) ... ok
+test_shifted_loss_produces_gradients (__main__.main.<locals>.FinalContract.test_shifted_loss_produces_gradients) ... ok
+test_state_resets_between_windows (__main__.main.<locals>.FinalContract.test_state_resets_between_windows) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.267s
+
+OK
